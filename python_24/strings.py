@@ -28,6 +28,12 @@ name1 = "shaikshafi"
 shortname1 = name1[-10:-2]
 print(shortname1)
 
-
 print(Name[:4])
 print(Name[1:])
+
+# slicing with skip value
+
+skip = "abcdefghijklmnopqrstuvwxyz"
+
+skip1 = skip[1:11:1]
+print(skip1)
