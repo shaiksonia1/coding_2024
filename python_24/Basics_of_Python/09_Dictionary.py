@@ -20,4 +20,8 @@ print(marks.items())
 # print(marks.get("Ankit2")) #prints 'NONE' bcz the key does not exists in the dictionary``
 # print(marks["Ankit2"]) #returns an error
 print(marks.popitem()) # removes and returns the last inserted key-value pair as a tuple. If the dictionary is empty, it raises a KeyError
+
+
+print(marks.copy())
 print(marks)
+
