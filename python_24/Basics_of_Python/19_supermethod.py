@@ -1,12 +1,16 @@
 class Animals:
     def __init__(self):
-        a =1
+        print("constructor of Animals")
+    a =1
 class carniovours(Animals):
     def __init__(self):
-        b =2
+        print("constructor of Carnivouros")
+    b =2
 class omniovours(carniovours):
     def __init__(self):
-        c =1
+        super().__init__()
+        print("constructor of omniovours")
+    c =3
 
 o = Animals()
 
