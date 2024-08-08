@@ -6,8 +6,8 @@ I'm Shaik Sonia, a recent CSE graduate passionate about Python. I'm currently ex
 
 ### 🚀 Skills & Tools
 
-- **Languages**: Python, JavaScript
-- **Tools**: Git, VSCode, Jupyter Notebook
+- **Languages**: Python
+- **Tools**: VSCode
 
 ---
 
