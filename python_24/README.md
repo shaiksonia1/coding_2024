@@ -18,11 +18,6 @@ I'm Shaik Sonia, a recent CSE graduate passionate about Python. I'm currently ex
 
 ---
 
-### 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
 
 ### 🔗 Connect with Me
 
