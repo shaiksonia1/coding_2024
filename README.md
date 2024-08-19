@@ -15,7 +15,11 @@ This repository serves as a personal log of my Python learning process, starting
   
 - **Data Structures**
   - Lists, dictionaries, sets, tuples, and their respective methods and use cases.
-    
+
+- **Object-Oriented Programming (OOP)**
+
+  - Concepts like classes, objects, inheritance, encapsulation, and polymorphism. Examples and exercises showcasing these concepts.
+
 - **HackerRank Solutions**
   - A collection of solutions to problems I’ve tackled on HackerRank, organized by topic and difficulty.
 
